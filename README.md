@@ -8,3 +8,4 @@
 - csgo_weaponstickers.smx - 贴纸插件：!stickers & !st
 - gloves.smx - 手套插件：!gloves
 - csgo_agentschooser-zh-cn.smx - 探员插件：!agents
+- music.smx - 音乐盒插件：!music
