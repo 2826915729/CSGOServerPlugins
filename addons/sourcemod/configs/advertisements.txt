@@ -1,0 +1,24 @@
+// Advertisements 2.1
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+   "1"
+    {
+        "chat"        "按 {lightgreen}Y {default}聊天输入: {lightgreen}!guns {default}换武器,  {lightgreen}!ws {default}换皮肤,  {lightgreen}!st {default}换贴纸, {lightgreen}!knife {default}换刀,  {lightgreen}!music {default}换音乐盒，{lightgreen}!gloves {default}换手套,  {lightgreen}!agents {default}换探员."
+    }
+}
